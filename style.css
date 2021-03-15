@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+}
+.title-header {
+  text-align: center;
+}
+
+.inline-style {
+  display: inline-block;
+  margin: 2rem 1rem;
+}
+
+.article-section {
+  align-items: center;
+}
+
+article {
+  height: 300px;
+  width: 400px;
+  border: 1px solid black;
+  margin: auto;
+}
